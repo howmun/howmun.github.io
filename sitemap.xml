@@ -2,6 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://howmun.dev/posts/first_post/</loc><lastmod>2021-03-05T16:30:04&#43;08:00</lastmod></url><url>
+            <loc>https://howmun.dev/</loc><lastmod>2021-03-05T16:30:04&#43;08:00</lastmod></url><url>
+            <loc>https://howmun.dev/posts/</loc><lastmod>2021-03-05T16:30:04&#43;08:00</lastmod></url><url>
             <loc>https://howmun.dev/categories/</loc></url><url>
-            <loc>https://howmun.dev/</loc></url><url>
             <loc>https://howmun.dev/tags/</loc></url></urlset>
