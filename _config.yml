@@ -99,11 +99,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: keep
 
-base_info:
-  title: howmun.dev
-  author: Howmun
-  url: https://howmun.dev
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
